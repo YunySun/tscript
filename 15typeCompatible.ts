@@ -135,7 +135,7 @@ let color157 = Color157.Red;
 // status157 = color157; // let status157: Status157 不能将类型“Color157.Red”分配给类型“Status157”。
 
 // 类
-class Animal {
+class Animal157 {
   feet: number = 0;
   constructor(name: string, numFeet: number) {}
 }
